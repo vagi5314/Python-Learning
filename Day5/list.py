@@ -6,19 +6,19 @@ print(len(list1+list2))
 list3=list1.extend(list2)
 print(list3)
 
-#append and remove
+
 list1.append(100)
 print(list1)
 list1.remove(56)
 print(list1)
 
-#sort and reverse
+
 list2.sort()
 print(list2)
 list2.reverse()
 print(list2)
 
-#indexing and slicing
+
 print(list2[0])
 print(list2[-1])
 print(list2[2:5])
