@@ -4,4 +4,8 @@ count = 0
 for i in sentence:
     if i==" ":
         count+=1
-print(count)
+print(count+1)
+
+# or you can use this
+
+print(len(sentence.split()))

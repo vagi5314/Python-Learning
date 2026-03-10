@@ -1,3 +1,4 @@
+#count vowels in a word
 word = input("enter the word : ")
 vowels = "aeiouAEIOU"
 count=0
