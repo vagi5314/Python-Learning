@@ -11,7 +11,7 @@ else:
 
 # Another way to do it
 word = input("enter the word")
-rev = word[::-1]
+rev = str(word)[::-1]
 if word == rev:
     print("palindrome")
 else:
