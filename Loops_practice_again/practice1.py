@@ -1,4 +1,4 @@
-#No.of digits count
+# No.of digits count
 num = int(input("Enter a number: "))
 count = 0
 

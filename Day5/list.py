@@ -1,9 +1,9 @@
-#list and its methods
+# list and its methods
 list1 = [56, 76, 89, 75, 13, 12, 90, 45]
 list2 = [34, 67, 59, 43, 38, 93, 27, 73]
 
 print(len(list1+list2))
-list3=list1.extend(list2)
+list3 = list1.extend(list2)
 print(list3)
 
 
@@ -33,4 +33,3 @@ print(list1.index(56))
 
 list1.insert(2, 100)
 print(list1)
-

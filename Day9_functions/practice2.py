@@ -1,8 +1,10 @@
-#function for even orodd
+# function for even orodd
 def oddeven():
     num = int(input("enter the value of num:"))
-    if num%2!=0:
-        print(num,"is odd")
+    if num % 2 != 0:
+        print(num, "is odd")
     else:
-        print(num,"is even")
+        print(num, "is even")
+
+
 oddeven()

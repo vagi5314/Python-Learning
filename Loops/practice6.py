@@ -1,15 +1,14 @@
-#Odd or Even
+# Odd or Even
 
 num = int(input("enter the value of num:"))
 
-if(num%2==0):
+if (num % 2 == 0):
     print(f"The number {num} is even")
 else:
     print(f"The number {num} is odd")
 
 
-
-#usingternary operator
+# usingternary operator
 
 num = int(input("enter the value of num:"))
-print("even" if(num%2==0) else "odd")
+print("even" if (num % 2 == 0) else "odd")

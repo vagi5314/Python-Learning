@@ -1,4 +1,4 @@
-#way1
+# way1
 word = input("enter the word")
 rev = ""
 for ch in word:
@@ -9,11 +9,10 @@ if word == rev:
 else:
     print("Not a palindrome")
 
-#Another way to do it
+# Another way to do it
 word = input("enter the word")
-rev=word[::-1]
-if word==rev:
+rev = word[::-1]
+if word == rev:
     print("palindrome")
 else:
     print("Not a palindrome")
-
