@@ -24,7 +24,7 @@ print(list2[-1])
 print(list2[2:5])
 
 
-print(min(list=list2))
+print(min(list2))
 print(max(list1+list2))
 
 print(list1.count(56))
