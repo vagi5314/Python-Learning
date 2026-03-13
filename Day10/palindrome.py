@@ -11,7 +11,9 @@ else:
 
 # Another way to do it
 word = input("enter the word")
-rev = str(word)[::-1]
+# NOTE: Pyre type checker is incorrectly flagging string slicing [::-1] as an error.
+# We suppress it here because slicing a string always returns a string in Python.
+rev = str(word)[::-1]  # type: ignore
 if word == rev:
     print("palindrome")
 else:
