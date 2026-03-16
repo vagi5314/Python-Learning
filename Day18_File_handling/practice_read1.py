@@ -1,0 +1,5 @@
+file = open('Day18_File_handling\info.txt', 'r')
+print(file.read())
+file.seek(0)
+print(file.readlines())
+file.close()
