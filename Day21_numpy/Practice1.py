@@ -1,0 +1,12 @@
+import numpy as np
+arr = np.array([22,4,5,6,93,27])
+print(arr)
+arr2d = np.array([[10,33,56,71,42],[33,79,81,65,92]])
+print(arr2d)
+print(arr.size)
+print(arr2d.size)
+print(np.zeros((2,5), dtype=int))
+print(np.ones((5,2), dtype=int))
+print(np.full((2,4), 3, dtype=int))
+print(arr.shape)
+print(arr2d.shape)
