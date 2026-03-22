@@ -1,0 +1,10 @@
+import numpy as np
+a1 = np.array([5,11,3])
+a2 = np.array([[10,5,8],[2,4,7]])
+print(a1+a2)
+print(a1*a2)
+print(a1//a2)
+print(a1**2)
+print(a1>a2)
+print(a1<a2)
+print(a1==a2)
