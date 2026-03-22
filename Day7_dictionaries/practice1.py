@@ -6,3 +6,4 @@ marks["history"] = 74
 print(marks)
 marks.pop("math")
 print(marks)
+
