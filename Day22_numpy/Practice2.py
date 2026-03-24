@@ -7,4 +7,3 @@ print(np.max(array))
 print(np.min(array))
 print(np.var(array))
 print(np.std(array))
-
