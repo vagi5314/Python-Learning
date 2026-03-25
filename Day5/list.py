@@ -21,7 +21,7 @@ print(list2)
 
 print(list2[0])
 print(list2[-1])
-print(list2[2:5])  # type: ignore
+print(list2[2:5])
 
 
 print(min(list2))
