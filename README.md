@@ -1,9 +1,8 @@
-# Python Learning Journey! 🚀
+# My Python Practice 🚀
 
-Hey there! Welcome to my Python learning repository.
+Welcome! This is where I'm logging my day-to-day progress as I learn Python.
 
-I created this space to track my day-to-day progress as I dive into Python programming. Inside, you'll find a daily log of my coding exercises, covering everything from the very basics (like loops and functions) to file handling, data structures, and more advanced concepts.
-
-I'm making it a point to commit code every day and write clean scripts. Feel free to explore the different `DayX` folders to see what I've been working on!
+I'm keeping track of everything—from basic loops and functions to file handling and more. It's just a space for my daily exercises and scripts. Feel free to explore the `DayX` folders!
 
 *PS: If you're looking for my data science and NumPy work, I've moved all of that into its own dedicated home over at [Numpy-Learning](https://github.com/vagi5314/Numpy-Learning) to keep things super tidy.*
+
